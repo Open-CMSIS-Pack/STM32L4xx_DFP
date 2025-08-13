@@ -14,11 +14,14 @@
   </licenseSets>
 
   <releases>
-    <release version="3.0.1-dev">
+    <release version="3.0.2-dev">
       Active development ...
       Device support:
       - Shortened device family description
       - Updated debug configuration files (MCU APBx Freeze registers)
+      Updated Templates:
+      - Added DWARF-5 debug information
+      - Added generated output files
       Updated documentation references
       Reorganized Licenses:
       - LICENSES (combined license file: Apache-2.0 and BSD-3-Clause)
