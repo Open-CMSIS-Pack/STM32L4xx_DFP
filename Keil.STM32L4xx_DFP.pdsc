@@ -14,19 +14,8 @@
   </licenseSets>
 
   <releases>
-    <release version="3.0.2-dev">
+    <release version="3.1.1-dev">
       Active development ...
-      Device support:
-      - Shortened device family description
-      - Updated debug configuration files (MCU APBx Freeze registers)
-      Updated Templates:
-      - Added DWARF-5 debug information
-      - Added generated output files
-      Updated documentation references
-      Reorganized Licenses:
-      - LICENSES (combined license file: Apache-2.0 and BSD-3-Clause)
-      - LICENSE-Apache-2.0 (for CMSIS add-ons)
-      - LICENSE-BSD-3-Clause (for STM32 HAL)
     </release>
     <release version="2.7.0" date="2024-03-27">
       Updated STM32Cube FW to STM32Cube_FW_L4_V1.18.0 (HAL V1.13.4).
